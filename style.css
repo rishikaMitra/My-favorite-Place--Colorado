@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(purple 0%, blue 100%);
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 1px 1px blue;
+
+
+}
+
+p {
+    font-size: 20px;
+    color: deeppink;
+}
